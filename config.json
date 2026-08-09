@@ -1,0 +1,33 @@
+{
+  "version": "1.2",
+  "menuName": "FLUORITE ELITE",
+  "keys": {
+    "premium": [
+      "VAWNYNSYWO-1234567",
+      "THSUAOC-PIWZXM",
+      "REBBUAO-BBSYWN",
+      "QHSKBU-CCIRW"
+    ],
+    "normal": [
+      "FLUORITE-VIP1793"
+    ]
+  },
+  "setcodes": [
+    "unlock_butloader",
+    "started_playping",
+    "deviceconfiguration",
+    "options_18x"
+  ],
+  "errorText": "KEY SAI NHẬP LẠI HOẶC KEY ĐÃ HẾT HẠN :))",
+  "infoPremiumTime": 6000,
+  "infoNormalTime": 14000,
+  "buttons": {
+    "keotam": "HỖ TRỢ KÉO TÂM",
+    "aimunstable": "AIM UNSTABLE",
+    "bypass": "BYPASS GLOBAL",
+    "import": "IMPORT IN DATA",
+    "setcode": "SETCODE PLUS",
+    "gameturo": "GAME TURBO",
+    "ai": "AI FLUORITE"
+  }
+}
