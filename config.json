@@ -23,7 +23,7 @@
   "infoNormalTime": 14000,
   "buttons": {
     "keotam": "HỖ TRỢ KÉO TÂM",
-    "aimunstable": "ĐANG UPLOAD",
+    "upload": "ĐANG UPLOAD",
     "bypass": "BYPASS GLOBAL",
     "import": "IMPORT IN DATA",
     "setcode": "SETCODE PLUS",
