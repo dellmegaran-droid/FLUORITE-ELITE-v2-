@@ -1,5 +1,5 @@
 {
-  "version": "ui lòng không vào app hệ thống đang bảo trì",
+  "version": "1.4",
   "menuName": "FLUORITE ELITE",
   "keys": {
     "premium": [
@@ -23,11 +23,11 @@
   "infoNormalTime": 14000,
   "buttons": {
     "keotam": "HỖ TRỢ KÉO TÂM",
-    "upload": "ĐANG UPLOAD",
-    "bypass": "BYPASS GLOBAL",
+    "loimang": "FIX LỖI MẠNG",
+    "bypass": "BYPASS GLOBAL X FIX400",
     "import": "IMPORT IN DATA",
     "setcode": "SETCODE PLUS",
     "gameturo": "GAME TURBO",
-    "ai": "AI FLUORITE V1.2"
+    "ai": "AI FLUORITE V1.3"
   }
 }
