@@ -23,7 +23,7 @@
   "infoNormalTime": 14000,
   "buttons": {
     "keotam": "HỖ TRỢ KÉO TÂM",
-    "fixloimang": "FIX LỖI MẠNG",
+    "fixmang": "FIX MẠNG",
     "bypass": "BYPASS GLOBAL X FIX400",
     "import": "IMPORT IN DATA",
     "setcode": "SETCODE PLUS",
